@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name AmplifierProject)(type Legacy)(uri ${KIPRJMOD}/AmplifierProject.lib)(options "")(descr ""))
+  (lib (name Amp-rescue)(type Legacy)(uri ${KIPRJMOD}/Amp-rescue.lib)(options "")(descr ""))
+)

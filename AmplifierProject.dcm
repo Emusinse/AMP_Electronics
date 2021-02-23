@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPA3128D2DAD
+D 30 W Stereo Class D Amplifier
+F http://www.ti.com/lit/ds/symlink/tpa3128d2.pdf
+$ENDCMP
+#
+#End Doc Library
